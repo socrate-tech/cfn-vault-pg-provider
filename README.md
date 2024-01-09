@@ -1,1 +1,1 @@
-# cfn-vault-pg-provider
+cfn-vault-pg-provider
